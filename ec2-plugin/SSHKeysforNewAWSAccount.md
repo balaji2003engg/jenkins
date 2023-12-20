@@ -5,7 +5,7 @@
 Solution: 
 
 
-     Step 1: Transfer the SSH Keys from Master to New Account
+     Step 1: Copy the SSH Keys from Master to New Account
 
 First things first – get those SSH keys from your master node to the new account. It's like passing the baton in a relay race. This step ensures a secure connection and hassle-free access to your EC2 instances.
     Refernce Link : 
